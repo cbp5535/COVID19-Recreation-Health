@@ -3,7 +3,7 @@ Survey data from an online panel of U.S. adults from February 2021 Qualtrics reg
 
 **Dataset Citation**
 
-Shen, X. & Parkinson, P. (2021) Outdoor recreation and mental health during the COVID-19 pandemic [Data set]. Oregon State University. https://doi.org/10.7267/doid01DOI
+Shen, X. & Parkinson, P. (2021) Outdoor recreation and mental health during the COVID-19 pandemic [Data set]. Oregon State University. https://doi.org/10.5281/zenodo.12668838
 
 **Abstract**
 
